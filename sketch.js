@@ -39,7 +39,7 @@ function preload(){
     strengthImg=loadImage("powerUp/Strength.png")
     LifeImg=loadImage("powerUp/Life.png")
     fireImg=loadImage("images/fireball.png")
-    rockImg=loadImage("images/rock.png")
+    rockImg=loadImage("images/Rock.png")
     WinImg=loadImage("images/Win.png")
     LoseImg=loadImage("images/Lose.png")
 
